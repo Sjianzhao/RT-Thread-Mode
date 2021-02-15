@@ -1,0 +1,9 @@
+.\build\system_stm32f1xx.o: libraries/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.c
+.\build\system_stm32f1xx.o: libraries/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+.\build\system_stm32f1xx.o: libraries/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+.\build\system_stm32f1xx.o: libraries/CMSIS/Include/core_cm3.h
+.\build\system_stm32f1xx.o: F:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\system_stm32f1xx.o: libraries/CMSIS/Include/cmsis_version.h
+.\build\system_stm32f1xx.o: libraries/CMSIS/Include/cmsis_compiler.h
+.\build\system_stm32f1xx.o: libraries/CMSIS/Include/cmsis_armcc.h
+.\build\system_stm32f1xx.o: libraries/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h

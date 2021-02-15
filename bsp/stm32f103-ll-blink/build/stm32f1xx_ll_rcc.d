@@ -1,0 +1,10 @@
+.\build\stm32f1xx_ll_rcc.o: libraries/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_rcc.c
+.\build\stm32f1xx_ll_rcc.o: libraries/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_rcc.h
+.\build\stm32f1xx_ll_rcc.o: libraries/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+.\build\stm32f1xx_ll_rcc.o: libraries/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+.\build\stm32f1xx_ll_rcc.o: libraries/CMSIS/Include/core_cm3.h
+.\build\stm32f1xx_ll_rcc.o: F:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\stm32f1xx_ll_rcc.o: libraries/CMSIS/Include/cmsis_version.h
+.\build\stm32f1xx_ll_rcc.o: libraries/CMSIS/Include/cmsis_compiler.h
+.\build\stm32f1xx_ll_rcc.o: libraries/CMSIS/Include/cmsis_armcc.h
+.\build\stm32f1xx_ll_rcc.o: libraries/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
